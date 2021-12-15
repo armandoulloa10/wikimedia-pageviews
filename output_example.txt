@@ -1,0 +1,118 @@
+-------------------< com.armandoulloa:mavenproject1 >-------------------
+Building mavenproject1 1.0-SNAPSHOT
+--------------------------------[ jar ]---------------------------------
+
+--- exec-maven-plugin:3.0.0:exec (default-cli) @ mavenproject1 ---
+File pageviews-20211215-210000.gz not loaded yet, the next one will be searched.
+File pageviews-20211215-200000.gz processed in: 0 min 31 sec
+File pageviews-20211215-190000.gz processed in: 0 min 33 sec
+File pageviews-20211215-180000.gz processed in: 0 min 32 sec
+File pageviews-20211215-170000.gz processed in: 0 min 33 sec
+File pageviews-20211215-160000.gz processed in: 0 min 30 sec
+TOP        DOMAIN_CODE     PAGE_TITLE                     VIEWS_COUNT
+1          en.m            Main_Page                          139429
+2          en.m            Main_Page                          137090
+3          en.m            Main_Page                          136586
+4          en.m            Main_Page                          135944
+5          en              Main_Page                          132342
+6          en.m            Main_Page                          130840
+7          en              Main_Page                          124977
+8          en              Main_Page                          124835
+9          en              Main_Page                          112819
+10         en              Main_Page                          104939
+11         de              Wikipedia:Hauptseite                50256
+12         de              Wikipedia:Hauptseite                48279
+13         de              Wikipedia:Hauptseite                44966
+14         de              Wikipedia:Hauptseite                43577
+15         de              Wikipedia:Hauptseite                43232
+16         en.m            Spider-Man:_No_Way_Home             43115
+17         en              Special:Search                      42889
+18         en.m            Spider-Man:_No_Way_Home             42561
+19         en              Special:Search                      39888
+20         en              Special:Search                      39756
+21         en.m            Spider-Man:_No_Way_Home             38938
+22         en              Special:Search                      38220
+23         en.m            Spider-Man:_No_Way_Home             36166
+24         en              Special:Search                      36109
+25         en.m            Spider-Man:_No_Way_Home             33164
+26         en.m            Special:Search                      32598
+27         en.m            Special:Search                      32210
+28         en.m            Special:Search                      32022
+29         en.m            Special:Search                      31590
+30         en.m            Special:Search                      31028
+31         de.m            Wikipedia:Hauptseite                30307
+32         fr              Wikipédia:Accueil_principal         28097
+33         fr              Wikipédia:Accueil_principal         27792
+34         de.m            Wikipedia:Hauptseite                26831
+35         fr              Wikipédia:Accueil_principal         26492
+36         de.m            Wikipedia:Hauptseite                24554
+37         fr              Wikipédia:Accueil_principal         24152
+38         fr              Wikipédia:Accueil_principal         23321
+39         de.m            Wikipedia:Hauptseite                22950
+40         ru              ?????????_????????                  21330
+41         ru              ?????????_????????                  21289
+42         de.m            Wikipedia:Hauptseite                21091
+43         ru              ?????????_????????                  21015
+44         ru              ?????????_????????                  20905
+45         en.m            Bell_hooks                          20659
+46         it              Pagina_principale                   19971
+47         ru              ?????????_????????                  19810
+48         it              Pagina_principale                   19762
+49         it              Pagina_principale                   19293
+50         es              Wikipedia:Portada                   18950
+51         es              Wikipedia:Portada                   18669
+52         es              Wikipedia:Portada                   18595
+53         es              Wikipedia:Portada                   18579
+54         de.m            John_Harvard_(Theologe)             18421
+55         es              Wikipedia:Portada                   18224
+56         en.m            Bell_hooks                          18212
+57         fr.m            Wikipédia:Accueil_principal         18201
+58         fr.m            Guy_Carlier                         17925
+59         it              Pagina_principale                   17140
+60         fr.m            Wikipédia:Accueil_principal         16392
+61         ja              ??????                              16314
+62         it              Pagina_principale                   16265
+63         en.m            Bell_hooks                          15867
+64         es.m            Wikipedia:Portada                   15667
+65         es.m            Wikipedia:Portada                   15631
+66         fr.m            Wikipédia:Accueil_principal         15536
+67         es.m            Camelus                             15503
+68         de.m            Das_Haus_(2021)                     15295
+69         en              Spider-Man:_No_Way_Home             14871
+70         es.m            Wikipedia:Portada                   14727
+71         es.m            Wikipedia:Portada                   14606
+72         ja              ??????                              14464
+73         zh              Wikipedia:??                        14464
+74         en              Spider-Man:_No_Way_Home             14448
+75         es.m            Wikipedia:Portada                   14362
+76         fr.m            Wikipédia:Accueil_principal         14160
+77         fr.m            Wikipédia:Accueil_principal         14012
+78         ja              ??????                              13551
+79         zh              Wikipedia:??                        13417
+80         ja              ??????                              12969
+81         en.m            Sergio_Agüero                       12937
+82         en              Spider-Man:_No_Way_Home             12884
+83         ja              ??????                              12777
+84         zh              Wikipedia:??                        12469
+85         pt              Wikipédia:Página_principal          12340
+86         pt              Wikipédia:Página_principal          12202
+87         pt              Wikipédia:Página_principal          12201
+88         zh              Wikipedia:??                        12103
+89         pt              Wikipédia:Página_principal          12056
+90         en              Spider-Man:_No_Way_Home             12032
+91         zh              Wikipedia:??                        11958
+92         en.m            Sergio_Agüero                       11810
+93         de.m            Viktor_Worms                        11710
+94         pt              Wikipédia:Página_principal          11624
+95         en              -                                   11291
+96         en              Spider-Man:_No_Way_Home             11028
+97         ja.m            ??????                              10902
+98         de              Spezial:Suche                       10821
+99         en              General_Motors_ignition_switch_recalls      10707
+100        en.m            Sergio_Agüero                       10561
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time:  02:48 min
+Finished at: 2021-12-15T16:24:58-05:00
+------------------------------------------------------------------------
